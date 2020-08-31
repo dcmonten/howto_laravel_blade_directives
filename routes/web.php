@@ -17,3 +17,6 @@ Route::get('/', function () {
 Route::get('/fancy_css', function () {
     return view('views.fancy_css');
 });
+Route::get('/reusable_comps', function () {
+    return view('views.reusable_components');
+});

@@ -3,3 +3,7 @@
 *{
     font-family: 'Cinzel', serif; 
 }
+small{
+    background-color: black;
+    color: whitesmoke;
+}
