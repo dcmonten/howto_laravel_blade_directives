@@ -14,3 +14,6 @@
 Route::get('/', function () {
     return view('views.welcome');
 });
+Route::get('/fancy_css', function () {
+    return view('views.fancy_css');
+});
